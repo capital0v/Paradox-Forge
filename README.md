@@ -1,6 +1,7 @@
 ### Paradox Forge
 ### Description
 ![Preview](https://github.com/capital0v/Paradox-Forge/tree/main/Images/preview.png)
+
 Paradox Forge is a program created for reverse engineers and modders that simplifies the process of developing modifications for games. With Paradox Forge you can easily interact with game processes and customize them to your needs.
 ## Main Functions
 - Read and write game process values: Paradox Forge allows you to read and change values in the game memory in real time, allowing you to customize game parameters and create unique modifications.
