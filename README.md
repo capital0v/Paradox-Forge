@@ -1,12 +1,12 @@
-# Paradox Forge
-### Описание
-Paradox Forge — это программа, созданная для реверс инженеров и моддеров, которая упрощает процесс разработки модификаций для игр. С помощью Paradox Forge вы сможете легко взаимодействовать с игровыми процессами и настраивать их под свои нужды.
+### Paradox Forge
+### Description
 ![Preview](https://github.com/capital0v/Paradox-Forge/tree/main/Images/preview.png)
-## Основные функции
-- Чтение и запись значений процесса игры: Paradox Forge позволяет в реальном времени считывать и изменять значения в памяти игры, что дает возможность настраивать игровые параметры и создавать уникальные - модификации.
-- Изменение приоритета игры: Утилита предоставляет возможность изменять приоритет процесса игры, что может помочь в оптимизации работы и повышении стабильности.
-- Включение функций мода через интерфейс: Paradox Forge предлагает удобный пользовательский интерфейс, где вы можете активировать различные функции мода с помощью кнопок, что делает процесс управления интуитивно понятным и доступным.
-## Начало работы
-Для начала работы вам всего лишь нужно написать название процесса игры и путь до нее в скрипта Launcher.cs и Main.cs
-### Контакт
-По любым вопросам или предложениям, пожалуйста, свяжитесь со мной по адресу: danyacapital@gmail.com
+Paradox Forge is a program created for reverse engineers and modders that simplifies the process of developing modifications for games. With Paradox Forge you can easily interact with game processes and customize them to your needs.
+## Main Functions
+- Read and write game process values: Paradox Forge allows you to read and change values in the game memory in real time, allowing you to customize game parameters and create unique modifications.
+- Changing game priority: The utility provides the ability to change the priority of the game process, which can help to optimize performance and improve stability.
+- Enabling mod features through the interface: Paradox Forge offers a user-friendly interface where you can activate various mod features through buttons, making the control process intuitive and accessible.
+## Getting Started
+To get started you just need to write the name of the game process and the path to it in the Launcher.cs and Main.cs scripts.
+### Contact
+For any questions or suggestions, please contact me at danyacapital@gmail.com.
